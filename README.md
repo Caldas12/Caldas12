@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a 3rd-year Computer Science Engineering student at the Polytechnic of Cávado and Ave (IPCA), in Portugal.<br>👀 I’m interested in Artificial Intelligence and web development<br>🌱 I’m currently self-studing Machine Learning<br>📚 Academic Background:<br>     🎓 Licenciatura em Engenharia de Sistemas Informáticos — IPCA (2023 – Present)<br>     🎓 Curso Profissional de Gestão e Programação de Sistemas Informáticos — Escola Secundária D. Afonso Henriques (2020-2023)<br><br>
+🎓 I'm a 3rd-year Computer Science Engineering student at the Polytechnic of Cávado and Ave (IPCA), in Portugal.<br>👀 I’m interested in Artificial Intelligence and web development<br>🌱 I’m currently self-studing Machine Learning<br>📚 Academic Background:<br>     <br>     🎓 Curso Profissional de Gestão e Programação de Sistemas Informáticos — Escola Secundária D. Afonso Henriques (2020-2023)<br><br>
 
 
 # 💻 Tech Stack:
