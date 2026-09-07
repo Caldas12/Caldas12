@@ -1,6 +1,7 @@
 # 💫 About Me:
 🎓 I'm a 1rd-year Computer Science Master's Degree student at the Polytechnic of Cávado and Ave (IPCA), in Portugal.<br>
-👀 I’m interested in Artificial Intelligence and web development<br>🌱 I’m currently self-studing Machine Learning<br><br> 📚 Academic Background:    <br>     - Curso Profissional de Gestão e Programação de Sistemas Informáticos — Escola Secundária D. Afonso Henriques (2020-2023)<br>
+👀 I’m interested in Artificial Intelligence and web development<br>🌱 I’m currently self-studing Machine Learning<br><br> 📚 Academic Background:<br>
+- Curso Profissional de Gestão e Programação de Sistemas Informáticos — Escola Secundária D. Afonso Henriques (2020-2023)<br>
 - Bachelor's Degree at Computer Science Engineering - Polytechnic of Cávado and Ave (UPCA) (2023-2026)
 
 # 💻 Tech Stack:
